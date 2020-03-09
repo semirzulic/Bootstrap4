@@ -44,4 +44,9 @@ body {
       font-size: 4rem; }
 
   .mb-resp {
-    margin-bottom: 1rem; } }
+    margin-bottom: 1rem; }
+
+  #contact .img-fluid {
+    max-width: 50%; }
+  #contact .align-slef-center {
+    text-align: center; } }

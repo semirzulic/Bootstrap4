@@ -73,4 +73,15 @@ body {
     .mb-resp {
         margin-bottom: 1rem;
     }
+
+    #contact {
+
+        .img-fluid {
+            max-width: 50%;
+        }
+
+        .align-slef-center {
+            text-align: center;
+        }
+    }
 }
